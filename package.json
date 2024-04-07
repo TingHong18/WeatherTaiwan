@@ -1,6 +1,6 @@
 {
   "name": "taiwan-weather-th",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js example server starter project",
   "license": "MIT",
   "main": "TaiwanWeather.js",
@@ -16,5 +16,9 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "npm": "10.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TingHong18/WeatherTaiwan.git"
   }
 }
