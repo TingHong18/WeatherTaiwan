@@ -1,0 +1,20 @@
+{
+  "name": "taiwan-weather-th",
+  "version": "1.0.0",
+  "description": "Node.js example server starter project",
+  "license": "MIT",
+  "main": "TaiwanWeather.js",
+  "scripts": {
+    "start": "nodemon TaiwanWeather.js"
+  },
+  "keywords": [],
+  "author": "tinghong",
+  "devDependencies": {
+    "@types/node": "^20.11.16",
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "npm": "10.5.1"
+  }
+}
